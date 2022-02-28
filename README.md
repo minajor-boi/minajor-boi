@@ -4,8 +4,6 @@
 [![](https://img.shields.io/badge/-@minajor-boi%23181717?style=flat-square&logo=github)](https://github.com/minajor-boi)
 
 
-𝑰 ❤️ 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!
-
 :computer: I am someone who strives to be a web developer..
 
 :vulcan_salute: Recently I am interested in front end development.
